@@ -1,0 +1,6 @@
+SOLID:
+S: Single Resposibility Principal -> (SRP)
+O: Open-Close Principal -> (OCP)
+L: Liskov Substitution Principal -> (LSP)
+I: Interface Segregation Principal -> (ISP)
+D: Dependency Inversion Principal -> (DIP)
