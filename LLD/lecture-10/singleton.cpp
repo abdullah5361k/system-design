@@ -1,0 +1,6 @@
+class Singleton {
+    public:
+    Singleton() {
+        
+    }
+}
